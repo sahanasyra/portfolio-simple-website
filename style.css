@@ -1,0 +1,169 @@
+* {
+    padding: 0;
+    margin: 0px;
+}
+
+body {
+    font-family: "Young Serif", serif;
+}
+
+.container {
+    padding: 50px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-one__contact {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: inline-block;
+}
+
+.section-one__name {
+    font-size: 60px;
+}
+
+.section-one__role {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section-two, .section-four, .section-five{
+    margin-top: 20px;
+}
+
+.section-two__desc, .section-three__desc, .section-four__desc, .section-five__desc{
+    margin-top: 20px;
+}
+
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-five__title a{
+color: skyblue;
+}
+
+.section-three li, .section-four li{
+list-style: none;
+}
+
+.section-three{
+    display: inline-block;
+    background-color: #6462fd;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.section-four{
+    display: inline-block;
+    background-color: #FE7517;
+    width: 450px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.part-one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    width: 1180px;
+    margin: 30px;
+}
+
+.part-one__name{
+    font-size: 60px;
+}
+
+.part-one__back{
+        background-color: orange;
+        color: white;
+        text-decoration: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        display: inline-block;
+    }
+
+.part-one__role{
+        font-size: 30px;
+        margin-top: 10px;
+    }
+
+.part-two, .part-three{
+    margin: 30px;
+
+}
+
+.part-two__submit{
+    background-color: orangered;
+        color: black;
+        text-decoration: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        display: inline-block;
+        border: none;
+}
+
+.part-three{
+        background-color: black;
+        color: white;
+        padding: 20px;
+    }
+
+.part-three__desc{
+    color: skyblue;
+}
+
+.part-three{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.part-two{
+    margin-top: 20px;
+}
+
+.part-two__input, .part-two__textarea, .part-two__submit{
+    margin-top: 10px;
+}
+
+.part-two__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.part-two__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+
+
+
+
+
